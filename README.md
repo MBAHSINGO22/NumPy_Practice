@@ -72,14 +72,6 @@ Prediksi cuaca pada hari ke-8 adalah 69.84
 
 ---
 
-## 💡 Pengembangan Lanjutan
-
-- Tambahkan visualisasi hasil regresi menggunakan **Matplotlib**.
-- Ekspansi ke regresi multivariat dengan dataset yang lebih besar.
-- Buat fungsi utilitas untuk generalisasi ukuran matriks pada `Tugas1.py`.
-
----
-
 ## 👨‍💻 Author
 
 **MBAHSINGO22**  
